@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FullName</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Enter the name:</string>
+    <string name="first_name">Enter First Name</string>
+    <string name="last_name">Enter Last Name</string>
+    <string name="btn_submit">Show Full Name</string>
+    <string name="rad_fname_first">First name first</string>
+    <string name="rad_lname_first">Last name first</string>
+
+
+</resources>
